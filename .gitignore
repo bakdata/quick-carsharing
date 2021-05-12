@@ -1,0 +1,12 @@
+### Project ###
+.vscode/*
+**/data/
+**/__pycache__/
+**/.idea/
+**/out/
+
+
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+**/build/
