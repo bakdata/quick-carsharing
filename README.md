@@ -1,7 +1,7 @@
 # Quick Car Sharing 
 
 This repository contains the code for our [real-time monitoring and analytics
-solution](https://d9p.io/2021/05/08/solution-real-time-monitoring-and-analytics/).
+solution](https://d9p.io/solution-real-time-monitoring-and-analytics/).
 
 ## Structure
 
