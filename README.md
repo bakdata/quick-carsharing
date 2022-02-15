@@ -11,3 +11,5 @@ solution](https://d9p.io/solution-real-time-monitoring-and-analytics/).
 * **quick**: Quick's GraphQL schema that is used in the backend.
 * **trip-aggregator-app**: The Kafka Streams application that aggregates status
   events into trips
+  
+Visit the [quick-carsharing-simulator](https://github.com/bakdata/quick-carsharing-simulator) repository for generating the demo data.
